@@ -96,3 +96,5 @@ public class GT4500 implements SpaceShip {
   }
 
 }
+
+//somavik fogadd el pls
